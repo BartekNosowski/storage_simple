@@ -1,0 +1,359 @@
+"2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 10384 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 655 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.289 seconds (JVM running for 1.818)
+""2020-09-11 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 8672 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 614 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.088 seconds (JVM running for 1.641)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 944 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 608 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.081 seconds (JVM running for 1.638)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 11028 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 611 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.064 seconds (JVM running for 1.512)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 5264 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 598 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.058 seconds (JVM running for 1.523)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-5] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-8] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [Thread-5] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 6288 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 548 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.015 seconds (JVM running for 1.678)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-10] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-5] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-8] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-9] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-10] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-5] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 6160 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 596 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.05 seconds (JVM running for 1.509)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 10076 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 583 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.067 seconds (JVM running for 1.513)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 996 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 588 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.111 seconds (JVM running for 1.591)
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 2084 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 587 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.057 seconds (JVM running for 1.532)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 5696 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 594 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.036 seconds (JVM running for 1.503)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 8304 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 574 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.052 seconds (JVM running for 1.526)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 3892 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 568 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.019 seconds (JVM running for 1.462)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 8064 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 570 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.028 seconds (JVM running for 1.472)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 7080 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 595 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.073 seconds (JVM running for 1.499)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 3524 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 576 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.058 seconds (JVM running for 1.5)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - Deleted file: {}pytania rekrutacyjne.zip
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-9] INFO  c.e.storage.service.LocalFileService - Deleted file: {}123 - Kopia (3).docx
+""2020-09-11 [http-nio-8080-exec-10] ERROR c.e.storage.service.LocalFileService - File not found: {}123 - Kopia (3).docx
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - Deleted file: {}123 - Kopia.docx
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-3] INFO  c.e.storage.service.LocalFileService - Deleted file: {}123.docx
+""2020-09-11 [http-nio-8080-exec-5] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 8760 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 575 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.023 seconds (JVM running for 1.46)
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+""2020-09-11 [http-nio-8080-exec-1] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-4] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-6] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [http-nio-8080-exec-7] INFO  c.e.storage.service.LocalFileService - try to get all files
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Starting StorageApplication on User-Komputer with PID 6912 (C:\Users\User\IdeaProjects\storage\target\classes started by User in C:\Users\User\IdeaProjects\storage)
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - No active profile set, falling back to default profiles: default
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-09-11 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-09-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+""2020-09-11 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+""2020-09-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 568 ms
+""2020-09-11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-09-11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-09-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+""2020-09-11 [restartedMain] INFO  c.example.storage.StorageApplication - Started StorageApplication in 1.024 seconds (JVM running for 1.463)
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+""2020-09-11 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+""2020-09-11 [http-nio-8080-exec-2] INFO  c.e.storage.service.LocalFileService - try to get all files
+"
